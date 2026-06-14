@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Aaron Escamilla
+# Aaron E
 
 ### AI Security Strategist · Systems Thinker · Founder of [0xSpectra](#)
 
